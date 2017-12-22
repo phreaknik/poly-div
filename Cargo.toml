@@ -1,0 +1,6 @@
+[package]
+name = "poly-div"
+version = "0.1.0"
+authors = ["John Boyd <johnboydiv@gmail.com>"]
+
+[dependencies]
