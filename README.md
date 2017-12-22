@@ -1,5 +1,5 @@
 # polydiv
-A simple tool to decode/encode ascii85 messages. This tool was built in rust as a solution to the following challenge:
+A simple tool to perform polynomial division. This tool was built in rust as a solution to the following challenge:
 https://www.reddit.com/r/dailyprogrammer/comments/7fvy7z/20171127_challenge_342_easy_polynomial_division/
 
 ## Installation & Usage
